@@ -1,0 +1,12 @@
+.idea/
+src/main/main.iml
+src/test/test.iml
+*.sc
+.DS_Store
+project/project/
+project/target/
+target
+logs/*
+certs
+results/
+exampleProductTeamName-performance-tests.zip
